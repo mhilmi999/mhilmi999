@@ -41,7 +41,7 @@
 
 <br>
 
-<img align="center" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/ESGR.gif" width="850" />
+<img align="center" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/ESGR.gif" width="800" />
 
 
 <br>
