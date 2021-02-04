@@ -44,9 +44,6 @@
 <br>
 <img align="center" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/ESGR.gif" width="800" />
 
-
-<br>
-
 ------------
 
 <h3 align="center">Reach me on</h3>
@@ -56,6 +53,9 @@
    </a> 
    <a align="center" href="https://www.linkedin.com/in/mhilmi999" target="_blank">
       <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a> 
+   <a href="mailto:hilmi.muhammad.rmdhn@gmail.com" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
    </a> 
 </p>
 
