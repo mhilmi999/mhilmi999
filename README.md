@@ -7,7 +7,7 @@
 <p>
   
     I am a undergraduate IT student from <a href="https://www.its.ac.id/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.  
-    - <img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px"> A <b>Website Developer</b>  
+    - <img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b>  
     
     
 </p>
