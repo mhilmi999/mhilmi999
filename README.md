@@ -6,12 +6,14 @@
 
 <p>
    <em>
-    I am a undergraduate IT student from <a href="https://www.its.ac.id/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.  
-    - <img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b>  
-  </em>
-    
+    I am a undergraduate IT student from <a href="https://www.its.ac.id/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.
+    A person who likes learning a new things, challenges, and targets for a goal. With the orientation for the excellent result and always with pray for all conditon.
+      Currently work and Enthusiast with :
+   </em>
 </p>
 
+   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b>
+   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/mobDev.gif" width="30px" /> A <b>Mobile Developer Learners</b>
 
 <!--
 **mhilmi999/mhilmi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
