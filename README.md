@@ -14,6 +14,7 @@
 
    - A <b>Website Developer</b><img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> 
    - A <b>Mobile Developer Learners</b><img src="https://github.com/mhilmi999/mhilmi999/blob/main/mobDev.gif" width="30px" /> 
+   - An <b>Image Processing Enthusiast</b><img src="https://github.com/mhilmi999/mhilmi999/blob/main/CVison.gif" width="30px" />
 
 <!--
 **mhilmi999/mhilmi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
