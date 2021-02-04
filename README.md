@@ -2,8 +2,7 @@
 
 <img align="right" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/programming.gif" width="350" />
 
-### **Hi there! you're a visitor :** &nbsp;
-![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
+### **Hi there! you're a visitor :** ![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
 
 <br>
 
