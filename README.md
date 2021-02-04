@@ -16,6 +16,17 @@
    - A <b>Website Developer</b>  <img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> 
    - A <b>Mobile Developer Learners</b>  <img src="https://github.com/mhilmi999/mhilmi999/blob/main/mobDev.gif" width="30px" /> 
    - An <b>Image Processing Enthusiast</b>. <img src="https://github.com/mhilmi999/mhilmi999/blob/main/CVison.gif" width="30px" />
+   
+<br>
+
+<a href="https://github.com/mhilmi999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmi999&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/mhilmi999">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhilmi999&show_icons=true&theme=dark&line_height=27" alt="Rizqi Wijaya's github stats"/>
+</a>
+
 
 <!--
 **mhilmi999/mhilmi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
