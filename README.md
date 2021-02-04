@@ -37,10 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhilmi999&repo=FilmGratis-Reborn-&theme=dark" width="100px" />
 </a>
 
-<a href="https://github.com/mhilmi999/eReview2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhilmi999&repo=eReview2&theme=dark" width="100px" />
-</a>
-
 <br>
 
 
