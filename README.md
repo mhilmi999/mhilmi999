@@ -1,6 +1,6 @@
 # <img src="https://github.com/mhilmi999/mhilmi999/blob/main/Hi_minions.gif" width="50px"> I'm Muhammad Hilmi Ramadhan 
 
-<img align="right" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/programming.gif" width="190" />
+<img align="right" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/programming.gif" width="300" />
 
 ### **Hi there! you're a visitor :** &nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
