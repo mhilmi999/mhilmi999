@@ -34,11 +34,11 @@
 </a>
 
 <a href="https://github.com/mhilmi999/FilmGratis-Reborn-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhilmi999&repo=FilmGratis-Reborn&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhilmi999&repo=FilmGratis-Reborn-&theme=dark" />
 </a>
 
 <a href="https://github.com/mhilmi999/eReview2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizwijaya&repo=eReview2&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhilmi999&repo=eReview2&theme=dark" />
 </a>
 
 <br>
