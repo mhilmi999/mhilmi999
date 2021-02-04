@@ -1,4 +1,4 @@
-# <img src="https://github.com/mhilmi999/mhilmi999/blob/main/Hi_minions.gif" width="100px"> I'm Muhammad Hilmi Ramadhan 
+# <img src="https://github.com/mhilmi999/mhilmi999/blob/main/Hi_minions.gif" width="50px"> I'm Muhammad Hilmi Ramadhan 
 
 
 <!--
