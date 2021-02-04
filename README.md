@@ -12,8 +12,8 @@
    </em>
 </p>
 
-   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b> &nbsp;
-   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/mobDev.gif" width="30px" /> A <b>Mobile Developer Learners</b> &nbsp;
+   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b>\
+   *<img src="https://github.com/mhilmi999/mhilmi999/blob/main/mobDev.gif" width="30px" /> A <b>Mobile Developer Learners</b> 
 
 <!--
 **mhilmi999/mhilmi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
