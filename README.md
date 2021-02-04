@@ -46,7 +46,7 @@
 
 ------------
 
-<h3 align="center">Reach me on</h3>
+<h3 align="center">Let's Get in Touch</h3>
 <p align="center">
    <a align="center" href="https://github.com/mhilmi999" target="_blank">
       <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
