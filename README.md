@@ -1,8 +1,6 @@
 # Hello, I'm Muhammad Hilmi Ramadhan 👋
 
 
-### Hi there 
-
 <!--
 **mhilmi999/mhilmi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
