@@ -2,13 +2,13 @@
 
 <img align="right" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/programming.gif" width="190" />
 
-### **Hi there*** &nbsp
+### **Hi there!*** &nbsp
 
 <p>
-  
+   <em>
     I am a undergraduate IT student from <a href="https://www.its.ac.id/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.  
     - <img src="https://github.com/mhilmi999/mhilmi999/blob/main/webDev.gif" width="30px" /> A <b>Website Developer</b>  
-    
+  </em>
     
 </p>
 
