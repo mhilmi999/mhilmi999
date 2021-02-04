@@ -5,6 +5,8 @@
 ### **Hi there! you're a visitor :** &nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
 
+<br>
+
 <p>
    <em>
     I am a undergraduate IT student from <a href="https://www.its.ac.id/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.
@@ -41,8 +43,6 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 3 February, 16:02 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 <h3 align="center">Reach me on</h3>
 <p>
