@@ -2,15 +2,15 @@
 
 <img align="right" alt="Programmer Gif" src="https://github.com/mhilmi999/mhilmi999/blob/main/programming.gif" width="350" />
 
-### **Hi there! you're a visitor :** ![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
+### **Hi there! you're a visitor:**![Visitor Count](https://profile-counter.glitch.me/{mhilmi999}/count.svg)
 
 <br>
 
 <p>
    <em>
     I am a undergraduate IT student from <a href="https://www.its.ac.id/it/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.
-    A person who likes learning a new things, challenges, and targets for a goal. With the orientation for the excellent result and always with pray for all conditon. <br/>
-      Currently work and Enthusiast with :
+    A person who likes learning new things, challenges, and targets for a goal. With the orientation for the excellent result and always pray for all conditions. <br/>
+      Currently, work and Enthusiast with :
    </em>
 </p>
 
